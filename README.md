@@ -4,12 +4,12 @@
 
 The Arm platform is powered by the world’s largest computing ecosystem and supported by over 22 million developers. Proven by more than 325 billion Arm‑based chips, it delivers unmatched performance and power efficiency for next‑generation from edge to cloud computing. This robust foundation lays the groundwork for transformative ideas.
 
-## Get Started on GitHub:
+## Get Started on GitHub
 * /Arm - _description of this repo_
 * [/Arm Software](https://github.com/arm-software) - _description of repo_
 * [/Arm Developer Ecosystem](https://github.com/armdeveloperecosystem) - _description of repo_
 
-### Explore More Resources:
+### Explore More Resources
 [Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [On-Demand Videos](https://developer.arm.com/search#numberOfResults=48&f-navigationhierarchiescontenttype=Video%20Tutorial) | [Community Blog](https://community.arm.com/arm-community-blogs/) 
 
 ### Join the Arm Developer Program
