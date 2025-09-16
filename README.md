@@ -10,7 +10,7 @@ The Arm platform is powered by the world’s largest computing ecosystem and sup
 * [/Arm Developer Ecosystem](https://github.com/armdeveloperecosystem) - _description of repo_
 
 ### Explore More Resources
-[Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [On-Demand Videos](https://developer.arm.com/search#numberOfResults=48&f-navigationhierarchiescontenttype=Video%20Tutorial) | [Community Blog](https://community.arm.com/arm-community-blogs/) 
+[Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [Model Collections](https://huggingface.co/Arm) | [On-Demand Videos](https://developer.arm.com/search#numberOfResults=48&f-navigationhierarchiescontenttype=Video%20Tutorial) | [Community Blog](https://community.arm.com/arm-community-blogs/) 
 
 ### Join the Arm Developer Program
 Become part of the Arm Developer Program and access a global community of developers, powerful tools, expert support, and exclusive perks to help transform your ideas into world-changing innovations.  
