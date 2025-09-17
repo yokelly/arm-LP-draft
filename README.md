@@ -25,6 +25,6 @@ Explore documentation, learning resources, and tutorials to support your Arm dev
 ## 🤝 Join the Arm Community
 Become part of the Arm Developer Program and access a global community of developers, powerful tools, expert support, and exclusive perks to help transform your ideas into world-changing innovations.
 
-[![Join Arm Developer Program](https://img.shields.io/badge/Join-Arm_Developer_Program-0091BD?style=for-the-badge&logo=arm&logoColor=white&labelColor=0091BD&color=0091BD)](https://developer.arm.com/developer-program)
+[![Join Arm Developer Program](https://img.shields.io/badge/Join-Arm_Developer_Program-0091BD?style=for-the-badge&logo=arm&logoColor=white&labelColor=0091BD&color=0091BD)](https://developer.arm.com/arm-developer-program)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/armsoftwaredev)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/ArmSoftwareDev/)
