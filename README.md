@@ -5,17 +5,12 @@
 Welcome to the official Arm GitHub organization. Your gateway to software, tools, and open-source innovation that power a broad spectrum of devices—from the edge and mobile, to cloud and embedded systems.
 
 ## 🛠 Get Started
-Featured toolkits, libraries, and migration tools to accelerate development on Arm platforms:
+Introductory learning paths for developers building on select hardare and new to the Arm architecture:
 
-- **[arm-toolchain](https://github.com/arm/arm-toolchain)** — Toolchains for Arm and AArch64 (bare-metal and Linux)
-- **[accuracy-super-resolution](https://github.com/arm/accuracy-super-resolution)** — Super-resolution library and reference implementation
-- **[neural-graphics-model-gym](https://github.com/arm/neural-graphics-model-gym)** — Toolkit for real-time neural graphics models
-- **[ai-ml-sdk-scenario-runner](https://github.com/arm/ai-ml-sdk-scenario-runner)** — Runner for ML workloads via Vulkan or ML extensions
-- **[arm-linux-migration-tools](https://github.com/arm/arm-linux-migration-tools)** — Tools to support migrating software to Arm platforms
+[Servers & Cloud Computing](https://learn.arm.com/learning-paths/servers-and-cloud-computing/intro/) | [Laptops & Desktops](https://learn.arm.com/learning-paths/laptops-and-desktops/intro/) | [Mobile](https://learn.arm.com/learning-paths/mobile-graphics-and-gaming/intro/) | [IoT](https://learn.arm.com/learning-paths/iot/intro/) | [Embedded and Microcontrollers](https://learn.arm.com/learning-paths/embedded-and-microcontrollers/intro/)
 
-## 📂 Explore Repos
-* [/Arm Software Repo](https://github.com/arm-software) - _description of repo_
-* [/Arm Developer Ecosystem Repo](https://github.com/armdeveloperecosystem) - _description of repo_
+## 📂 Featured Examples & Tutorials
+* Accelerate Generative AI workloads using KleidiAI
 
 ## 🔎 Browse Resources
 Explore documentation, learning resources, and tutorials to support your Arm development journey.
