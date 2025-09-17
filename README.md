@@ -9,7 +9,7 @@ Introductory learning paths for developers building on select hardare and new to
 
 [Servers & Cloud Computing](https://learn.arm.com/learning-paths/servers-and-cloud-computing/intro/) | [Laptops & Desktops](https://learn.arm.com/learning-paths/laptops-and-desktops/intro/) | [Mobile](https://learn.arm.com/learning-paths/mobile-graphics-and-gaming/intro/) | [IoT](https://learn.arm.com/learning-paths/iot/intro/) | [Embedded and Microcontrollers](https://learn.arm.com/learning-paths/embedded-and-microcontrollers/intro/)
 
-## 📂 Featured Examples & Tutorials
+## 📂 Featured Examples
 * Accelerate Generative AI workloads using KleidiAI
 
 ## 🔎 Browse Resources
