@@ -2,7 +2,7 @@
 
 # Build AI Everywhere—From Cloud to Edge
 
-Welcome to Arm on GitHub. Explore open-source projects, tools, and resources that help developers build and optimize across cloud, automotive, mobile, IoT, Windows on Arm, and edge devices.
+Welcome to Arm on GitHub. Explore open-source projects, tools, and resources that help developers build and optimize thier AI projects across cloud, automotive, mobile, IoT, Windows on Arm, and edge devices.
 
 ## 🛠 Get Started
 Featured examples, libraries, and toolkits to jumpstart your software development work on Arm:
