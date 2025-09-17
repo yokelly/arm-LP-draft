@@ -2,16 +2,15 @@
 
 # Build AI Everywhere—From Cloud to Edge
 
-Welcome to the official Arm GitHub organization. Your gateway to software, tools, and open-source innovation that power a broad spectrum of devices—from the edge and mobile, to cloud and embedded systems.
+Welcome to Arm on GitHub. Explore open-source projects, tools, and resources that help developers build and optimize across cloud, automotive, mobile, IoT, Windows on Arm, and edge devices.
 
 ## 🛠 Get Started
-Introductory learning paths for developers who want to understand where Arm architecture is used across specific hardware.
-
-[Servers & Cloud Computing](https://learn.arm.com/learning-paths/servers-and-cloud-computing/intro/) | [Laptops & Desktops](https://learn.arm.com/learning-paths/laptops-and-desktops/intro/) | [Mobile](https://learn.arm.com/learning-paths/mobile-graphics-and-gaming/intro/) | [IoT](https://learn.arm.com/learning-paths/iot/intro/) | [Embedded and Microcontrollers](https://learn.arm.com/learning-paths/embedded-and-microcontrollers/intro/)
-
-### 📂 Featured Examples
-Introductory learning paths for developers who want to understand where Arm architecture is used across specific hardware.
-* Accelerate Generative AI workloads using KleidiAI
+Featured examples, libraries, and toolkits to jumpstart your software development work on Arm:
+* Featured Repo
+* Featured Repo
+* Featured Repo
+* Featured Repo
+* Featured Repo
 
 ### 🔎 Browse Resources
 Explore documentation, learning resources, and tutorials to support your Arm development journey.
