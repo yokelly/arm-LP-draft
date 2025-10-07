@@ -1,11 +1,10 @@
 <img width="150" height="370" alt="Arm_logo_2017 svg" src="https://github.com/user-attachments/assets/025174b5-0581-4622-b622-ec7e27d05a05" />
 
 # Build AI Everywhere—From Cloud to Edge
-
-Welcome to Arm on GitHub. Explore open-source projects, tools, and resources that help developers build and optimize thier AI projects across cloud, automotive, mobile, IoT, Windows on Arm, and edge devices.
+Welcome to Arm on GitHub. Accelerate AI innovation on Arm’s ubiquitous compute platform, engineered for exceptional performance, scalability, and efficiency. From intelligent edge devices to the cloud and everything in between, Arm powers the technologies shaping the future of AI.
 
 ## 🛠 Get Started
-Featured examples, libraries, and toolkits to jumpstart your software development work on Arm:
+Access featured repositories, toolkits, and opensource projects to build, optimize, and deploy AI projects on Arm.
 * Featured Repo
 * Featured Repo
 * Featured Repo
