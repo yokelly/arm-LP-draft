@@ -11,12 +11,12 @@ Access featured repositories, toolkits, and opensource projects to build, optimi
 * Featured Repo
 * Featured Repo
 
-### 🔎 Browse Resources
+## 🔎 Browse Resources
 Explore documentation, learning resources, tutorials, and forums to support your Arm development journey.
 
 [Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [Model Collections](https://huggingface.co/Arm) | [On-Demand Videos](https://developer.arm.com/search#numberOfResults=48&f-navigationhierarchiescontenttype=Video%20Tutorial) | [Community Blog](https://community.arm.com/arm-community-blogs/) | [Support Forums](https://community.arm.com/support-forums/)
 
-### 🤝 Join the Arm Community
+## 🤝 Join the Arm Community
 Become part of the Arm Developer Program and access a global community of developers, powerful tools, and expert support to help transform your ideas into real-world solutions.
 
 [![Join Arm Developer Program](https://img.shields.io/badge/Join-Arm_Developer_Program-0091BD?style=for-the-badge&logo=arm&logoColor=white&labelColor=0091BD&color=0091BD)](https://developer.arm.com/arm-developer-program)
