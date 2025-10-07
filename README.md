@@ -17,7 +17,7 @@ Explore documentation, learning resources, tutorials, and forums to support your
 [Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [Model Collections](https://huggingface.co/Arm) | [On-Demand Videos](https://developer.arm.com/search#numberOfResults=48&f-navigationhierarchiescontenttype=Video%20Tutorial) | [Community Blog](https://community.arm.com/arm-community-blogs/) | [Support Forums](https://community.arm.com/support-forums/)
 
 ### 🤝 Join the Arm Community
-Become part of the Arm Developer Program and access a global community of developers, powerful tools, expert support, and exclusive perks to help transform your ideas into world-changing innovations.
+Become part of the Arm Developer Program and access a global community of developers, powerful tools, and expert support to help transform your ideas into real-world solutions.
 
 [![Join Arm Developer Program](https://img.shields.io/badge/Join-Arm_Developer_Program-0091BD?style=for-the-badge&logo=arm&logoColor=white&labelColor=0091BD&color=0091BD)](https://developer.arm.com/arm-developer-program)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/armsoftwaredev)
