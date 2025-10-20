@@ -1,6 +1,6 @@
 <img width="150" height="370" alt="Arm_logo_2017 svg" src="https://github.com/user-attachments/assets/025174b5-0581-4622-b622-ec7e27d05a05" />
 
-# Build, Optimize, and Scale what's next.
+# Build, Optimize, and Scale What's Next.
 Arm is the foundation for the next generation of innovation from cloud to edge, AI to gaming, mobile to automotive. We empower developers to create freely, push performance further, and scale their products globally.
 
 ## 🛠 Get Started
