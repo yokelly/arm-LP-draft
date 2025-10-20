@@ -1,13 +1,13 @@
 <img width="150" height="370" alt="Arm_logo_2017 svg" src="https://github.com/user-attachments/assets/025174b5-0581-4622-b622-ec7e27d05a05" />
 
-# Build AI Everywhere—From Cloud to Edge
-Welcome to Arm on GitHub. Accelerate AI innovation on Arm’s ubiquitous compute platform, engineered for exceptional performance, scalability, and efficiency. From intelligent edge devices to the cloud and everything in between, Arm powers the technologies shaping the future of AI.
+# Build, Optimize, and Scale what's next.
+Arm is the foundation for the next generation of innovation from cloud to edge, AI to gaming, mobile to automotive. We empower developers to create freely, push performance further, and scale their products globally.
 
 ## 🛠 Get Started
-Access featured repositories, toolkits, and opensource projects to build, optimize, and deploy AI projects on Arm.
-* Featured Repo
-* Featured Repo
-* Featured Repo
+Get up and running quickly with featured repositories, toolkits, and opensource projects:
+* [Arm Toolchain](https://github.com/arm/arm-toolchain) - LLVM based platform containing libraries and tools for building C and C++ toolchains
+* [Arm Metis](https://github.com/arm/metis) - an open-source, AI-driven tool for deep security code review
+* [Arm Linux Migration Tools](https://github.com/arm/arm-linux-migration-tools) - package of migration tools to help developers migrate applications and workloads to Arm servers
 * Featured Repo
 * Featured Repo
 
@@ -22,3 +22,5 @@ Become part of the Arm Developer Program and access a global community of develo
 [![Join Arm Developer Program](https://img.shields.io/badge/Join-Arm_Developer_Program-0091BD?style=for-the-badge&logo=arm&logoColor=white&labelColor=0091BD&color=0091BD)](https://developer.arm.com/arm-developer-program)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/armsoftwaredev)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/ArmSoftwareDev/)
+
+💬 Found an issue? Please contact open-source-office@arm.com
