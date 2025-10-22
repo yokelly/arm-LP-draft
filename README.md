@@ -5,11 +5,12 @@ Arm is the foundation for the next generation of innovation from cloud to edge, 
 
 ## 🛠 Get Started
 Get up and running quickly with featured repositories, toolkits, and opensource projects:
-* [Arm Toolchain](https://github.com/arm/arm-toolchain) - LLVM based platform containing libraries and tools for building C and C++ toolchains
-* [Arm Metis](https://github.com/arm/metis) - an open-source, AI-driven tool for deep security code review
+* [KleidiAI](https://github.com/ARM-software/kleidiai) - open-source library that provides optimized performance-critical routines, also known as micro-kernels, for AI workloads tailored for Arm CPUs
+* [Arm Software Compute Library](https://github.com/ARM-software/ComputeLibrary) - a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies
 * [Arm Linux Migration Tools](https://github.com/arm/arm-linux-migration-tools) - package of migration tools to help developers migrate applications and workloads to Arm servers
-* Featured Repo
-* Featured Repo
+* [Arm Toolchain](https://github.com/arm/arm-toolchain) - LLVM based platform containing libraries and tools for building C and C++ toolchains
+* [Arm Trusted Firmware](https://github.com/ARM-software/arm-trusted-firmware) - a reference implementation of secure world software for Armv7-A and Armv8-A, including a Secure Monitor executing at Exception Level 3 (EL3)
+* [Arm Metis](https://github.com/arm/metis) - an open-source, AI-driven tool for deep security code review
 
 ## 🔎 Browse Resources
 Explore documentation, learning resources, tutorials, and forums to support your Arm development journey.
