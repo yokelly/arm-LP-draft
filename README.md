@@ -9,12 +9,12 @@ Arm is the foundation for the next generation of innovation from cloud to edge, 
 
 ## 🛠 Get Started
 Get up and running quickly with featured repositories, toolkits, and opensource projects:
-* [KleidiAI](https://github.com/ARM-software/kleidiai) - Optimized micro-kernels for performance-critical AI workloads on Arm CPUs
-* [Arm Software Compute Library](https://github.com/ARM-software/ComputeLibrary) - Optimized CV and ML functions for Arm CPUs and GPUs using SIMD
-* [Arm Linux Migration Tools](https://github.com/arm/arm-linux-migration-tools) - Migration tools designed to simplify moving applications and workloads to Arm servers
-* [Arm Toolchain](https://github.com/arm/arm-toolchain) - An LLVM-based platform providing libraries and tools for building and customizing C and C++ toolchains
+* [KleidiAI](https://github.com/ARM-software/kleidiai) - Optimized micro-kernels for performance-critical AI workloads on Arm CPUs.
+* [Arm Software Compute Library](https://github.com/ARM-software/ComputeLibrary) - Optimized CV and ML functions for Arm CPUs and GPUs using SIMD.
+* [Arm Linux Migration Tools](https://github.com/arm/arm-linux-migration-tools) - Migration tools designed to simplify moving applications and workloads to Arm servers.
+* [Arm Toolchain](https://github.com/arm/arm-toolchain) - An LLVM-based platform providing libraries and tools for building and customizing C and C++ toolchains.
 * [Arm Trusted Firmware](https://github.com/ARM-software/arm-trusted-firmware) - A reference implementation of secure world software with Secure Monitor (EL3) support for Armv7-A/Armv8-A.
-* [Arm Metis](https://github.com/arm/metis) - AI-powered, open-source tool for deep security code review
+* [Arm Metis](https://github.com/arm/metis) - AI-powered, open-source tool for deep security code review.
 
 ## 🔎 Browse Resources
 Explore documentation, learning resources, tutorials, and forums to support your Arm development journey.
