@@ -1,7 +1,7 @@
 <picture>
   <source srcset="[logo-white.png](https://github.com/user-attachments/assets/254a2a50-a8f8-429e-8154-9bc46e40b194)" media="(prefers-color-scheme: dark)">
   <source srcset="[logo-dark.png](https://github.com/user-attachments/assets/4457893f-3bba-4c19-97ad-644f6ff013d8)" media="(prefers-color-scheme: light)">
-  <img src="logo-light.png" alt="Project Logo" height="100">
+  <img src="logo-dark.png" alt="Project Logo" height="100">
 </picture>
 
 # Build, Optimize, and Scale What's Next.
