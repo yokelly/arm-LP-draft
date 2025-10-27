@@ -15,7 +15,7 @@ Get up and running quickly with featured repositories, toolkits, and opensource 
 ## 🔎 Browse Resources
 Explore documentation, learning resources, tutorials, and forums to support your Arm development journey.
 
-[Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [Model Collections](https://huggingface.co/Arm) | [On-Demand Videos](https://developer.arm.com/search#numberOfResults=48&f-navigationhierarchiescontenttype=Video%20Tutorial) | [Community Blog](https://community.arm.com/arm-community-blogs/) | [Support Forums](https://community.arm.com/support-forums/)
+[Downloads](https://developer.arm.com/downloads) | [Documentation](https://developer.arm.com/documentation) | [Learning Paths](https://learn.arm.com/) | [Model Collections](https://huggingface.co/Arm) | [On-Demand Videos](https://www.youtube.com/@ArmSoftwareDevelopers) | [Community Blog](https://community.arm.com/arm-community-blogs/) | [Support Forums](https://community.arm.com/support-forums/)
 
 ## 🤝 Join the Arm Community
 Become part of the Arm Developer Program and access a global community of developers, powerful tools, and expert support to help transform your ideas into real-world solutions.
